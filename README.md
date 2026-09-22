@@ -40,10 +40,10 @@
 
 ### 🌟 Featured Projects
 
-* 🌐 **[Gnosis Graph](https://github.com/Varo-27/GnosisGraph)** — Interactive graph-based semantic search engine leveraging vector embeddings *(Associate Degree Capstone Project)*.
-* 🧬 **[Micafold](https://github.com/Varo-27/Impacthon_investigacion)** — *Top 5 Global / 2nd Place Impacthon*. AI & HPC-assisted workspace for protein folding analysis powered by AlphaFold2.
-* ⚓ **Logbook App** — Offline-first desktop app (Tauri/Vue/Rust) featuring digital signature integration (AutoFirma) and distributed synchronization for maritime logbooks.
-* 🦾 **Industrial Classifier** — Automated material classification system powered by Siemens S7 PLCs, HMI, dynamic timing, and SINAMICS VFD control.
+* 🌐 **[Gnosis Graph](https://github.com/Varo-27/GnosisGraph)** - Interactive graph-based semantic search engine leveraging vector embeddings *(Associate Degree Capstone Project)*.
+* 🧬 **[Micafold](https://github.com/Varo-27/Impacthon_investigacion)** - *Top 5 Global / 2nd Place Impacthon*. AI & HPC-assisted workspace for protein folding analysis powered by AlphaFold2.
+* ⚓ **Logbook App** - Offline-first desktop app (Tauri/Vue/Rust) featuring digital signature integration (AutoFirma) and distributed synchronization for maritime logbooks.
+* 🦾 **Industrial Classifier** - Automated material classification system powered by Siemens S7 PLCs, HMI, dynamic timing, and SINAMICS VFD control.
 
 ---
 
